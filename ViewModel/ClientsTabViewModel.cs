@@ -152,13 +152,6 @@ namespace HMS.ViewModel
 
     }
 
-    class ClientInfo
-    {
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public DateTime BirthDate { get; set; }
-        public string Account { get; set; }
-        public string RoomNumber { get; set; }
-    }
+    
 
 }
